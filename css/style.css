@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,700;1,100&family=Nanum+Myeongjo&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family:'Nanum+Myeongjo', serif;
+	front-size: 18px ;
+	margin: 0px;
+}
+h1,h2,h3 {
+	font-family:'Lato', sans-serif;
+	front-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
